@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @Miltons94
 - 👀 I’m interested in ...Programming, Computational problem solving
-- 🌱 I’m currently learning ...Web development using php and javascript
+- 🧑‍💻 I really enjoy coding in C, and C# is my favourite language thus far
+- 🌱 I’m currently learning ... Full Stack Web development using Laravel and React
 - 💞️ I’m looking to collaborate on ...Any amazing projects
 - 📫 How to reach me ...miltonsithole00@gmail.com
 - 😄 Pronouns: ...

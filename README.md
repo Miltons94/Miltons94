@@ -1,4 +1,4 @@
-### Hello World, Just a guy who's fascinated with programming and striving to be the best at it. ;)
+##### Hello World, Just a guy who's fascinated with programming and striving to be the best at it. ;)
 - I’m interested in ...Programming, Computational problem solving
 - 🧑‍💻 I really enjoy coding in C, and C# is my favourite language thus far
 - I’m currently learning ... Full Stack Web development using Laravel and React
